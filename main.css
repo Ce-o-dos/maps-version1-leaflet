@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+#mapid{ 
+    height: 800px; 
+    width: 1000px;
+    display: flex;
+    margin: 50px auto;
+}
